@@ -3,7 +3,8 @@
 A small python script to clone all of your Github repositories
 
 ## Usage
-
+	
+	// Update the USER and API_TOKEN
+	USER = 'MaxKramer'
+    API_TOKEN='XXXX'
 	python AccountCloner.py
-	Your Github Username: MaxKramer
-	Please enter the full directory path to store the repos (/Users/Max/github/): /Users/Max/Desktop/ 
